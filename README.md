@@ -1,10 +1,10 @@
 # test-nw.js
 
-> A Vue.js project
+vue2 + webpack + three.js + nw.js test
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
