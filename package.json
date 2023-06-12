@@ -30,9 +30,19 @@
       "main": "./dist/index.html"
     }
   },
+  "window": {
+    "title": "nw app",
+    "icon": "/build/pyf.png",
+    "frame": true,
+    "position": "center",
+    "width": 1200,
+    "height": 800,
+    "resizable": false
+  },
   "dependencies": {
     "vue": "^2.5.2",
-    "vue-router": "^3.0.1"
+    "vue-router": "^3.0.1",
+    "three": "^0.128"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
